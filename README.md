@@ -5,6 +5,37 @@
 	Power Plus Workout App - React Native
 </h1>
 
+<h2 align="center">
+	Available for Sale
+</h2>
+
+<p align="center">
+	Reach out with your price if you're interested in buying.
+</p>
+<table>
+  <tr>
+    <td align="center" width="500px">
+      <a href="mailto:shahrozatiq123@gmail.com" title="Send me an email">
+        <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail Icon" height="60" width="60"/>
+      </a>
+    </td>
+    <td align="center" width="500px">
+      <a href="https://wa.me/923014317809" title="Chat with me on WhatsApp">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Icon" height="60" width="60"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="500px">
+      <a href="mailto:shahrozatiq123@gmail.com">Gmail<br>shahrozatiq123@gmail.com</a>
+    </td>
+    <td align="center" width="500px">
+      <a href="https://wa.me/923014317809">WhatsApp<br>+923014317809</a>
+    </td>
+  </tr>
+</table>
+
+
 https://github.com/user-attachments/assets/ae98466e-4557-418f-a074-330778af90d2
 
 <h1 align="center">
